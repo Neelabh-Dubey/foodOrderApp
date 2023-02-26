@@ -1,0 +1,39 @@
+.mealCard{
+    display: flex;
+    margin: 10px;
+    justify-content: space-between;
+}
+
+.mealAdd{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mealName, .qty{
+    font-weight: bold;
+}
+
+.mealPrice{
+    font-weight: bold;
+    color: brown;
+}
+
+.mealQty{
+    border-radius: 5px;
+    width: 35px;
+    margin-left: 5px;
+}
+
+.addBtn{
+    margin-top: 10px;
+    margin-right: 2px;
+    margin-left: 2px;
+    border-radius: 10px;
+    background-color: brown;
+    width: 25px;
+    font-weight: bolder;
+    font-size: larger;
+    padding: 0px;
+    color:chartreuse;
+}

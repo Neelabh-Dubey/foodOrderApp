@@ -1,0 +1,33 @@
+.cartBtn{
+    display: flex;
+    align-items: center;
+    color: aqua;
+    background-color: rgb(152, 8, 8);
+    border-radius: 15px;
+    padding: 10px;
+    border: none;
+    margin: auto 0;
+}
+
+.cartBtn:hover{
+    cursor: pointer;
+    /* border: 2px solid black; */
+}
+
+.cartItems{
+    text-align: center;
+    display: inline-block;
+    height: 10px;
+    color: rgb(60, 0, 255);
+    background-color: rgb(43, 6, 6);
+    padding: 10px;
+    padding-top: 0%;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+
+.cartName{
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}

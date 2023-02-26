@@ -1,0 +1,25 @@
+.totalAmount{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cartBtns{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.total{
+    font-weight: bolder;
+    font-size: larger;
+    margin: 8px;
+    margin-right: 4px;
+}
+
+.amt{
+    font-weight: bold;
+    font-size: x-large;
+    color: brown;
+    margin: 8px;
+    margin-left: 4px;
+    margin-top: 4px;
+}

@@ -1,0 +1,13 @@
+.wlcmCard{
+    background-color: black;
+    border: 5px solid aqua;
+    border-radius: 10px;
+    width: 60%;
+    height: 250px;
+    margin: 40px auto;
+    text-align: center;
+    color: azure;
+    padding-top: 30px;
+    padding-bottom: 0;
+    font-size: large;
+}
